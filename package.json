@@ -1,0 +1,19 @@
+{
+  "name": "basic-heroku-node",
+  "version": "1.0.0",
+  "description": "This is a basic Node project to test Heroku deployment.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Rodmentou",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
